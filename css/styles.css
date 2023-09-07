@@ -129,6 +129,9 @@ ul {
 }
 
 /* footer */
+.back-foot {
+    background-color: #2E2F42;
+}
 .text-footer{
 font-weight: 400;
 line-height: 1.5;

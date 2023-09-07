@@ -1,5 +1,5 @@
 body {
-    font-family: 'Roboto' sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: #434455;
     background-color: #FFF;
     font-style: normal;
@@ -18,12 +18,14 @@ ul {
 .header-logo {
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
-    line-height: 1.167;
+    line-height: 1.17;
     font-size: 18px;
-    color: #2E2F42;
+    color: #4D5AE5;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 .logo-accent {
-    color: #4D5AE5;
+    color: #2E2F42;
 }
 
 .header-link {    
@@ -61,10 +63,12 @@ ul {
     font-weight: 700;
     line-height: 1.07;
     letter-spacing: 1.12px;
+    text-align: center;
     background-color: #2E2F42;
 }
 
 .button-text {
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
@@ -79,7 +83,7 @@ ul {
     background-color: #404BBF;
 }
 
-/* section 1 Feature */
+/* section 2 Feature */
 .feature-title {            
     font-size: 20px;
     font-weight: 500;
@@ -95,13 +99,20 @@ ul {
     color: #434455;
 }
 
-/* section 2 Our Team and section 3 Our Portfolio*/
+/* section 3 Our Team and section 4 Our Portfolio*/
+.sect-backgr {
+    background-color: #F4F4FD;
+}
+.list-back {
+    background: #FFF;
+}
 .title-section {
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
     letter-spacing: 0.72px;
     text-transform: capitalize;
+    text-align: center;
     color: #2E2F42;
 }
 .title-img {     
@@ -123,5 +134,9 @@ font-weight: 400;
 line-height: 1.5;
 letter-spacing: 0.32px;
 color: #F4F4FD;
-background: #2E2F42;
+background-color: #2E2F42;
+}
+
+.logo-accent-foot {
+    color: #f4f4fd;
 }

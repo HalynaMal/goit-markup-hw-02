@@ -95,8 +95,8 @@ ul {
     color: #434455;
 }
 
-/* section 2 Our Team */
-.header2 {
+/* section 2 Our Team and section 3 Our Portfolio*/
+.title-section {
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
@@ -104,14 +104,14 @@ ul {
     text-transform: capitalize;
     color: #2E2F42;
 }
-.header3 {     
+.title-img {     
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.4px;
     color: #2E2F42;
 }
-.body {
+.sub-title {
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.32px;

@@ -64,6 +64,9 @@ ul {
     line-height: 1.07;
     letter-spacing: 1.12px;
     text-align: center;
+}
+
+.header-back {
     background-color: #2E2F42;
 }
 
